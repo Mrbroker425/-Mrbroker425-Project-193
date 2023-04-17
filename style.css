@@ -1,0 +1,38 @@
+ul li{
+display: inline-flex;
+margin: 4%;
+background-color: antiquewhite;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 900;
+
+}
+ul{
+text-align: center;
+background-color: antiquewhite;
+margin-top: -3%;
+opacity: 40%;
+border-radius: 22%;
+
+}
+ul li:hover{
+background-color: bisque;
+}
+.video{
+position: absolute;
+}
+video{
+    position: relative;
+    top:0;
+    left:0;
+    width: 100%;
+    z-index: -1;
+   margin-top: -10%;
+}
+h1{
+position: relative;
+margin-top: -25%;
+text-align: center;
+color: antiquewhite;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 900;
+}
